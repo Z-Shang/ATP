@@ -1,0 +1,7 @@
+# ATP
+A naive automated theorem prover in Common Lisp
+
+**This is originally a school assignment of UNSW's course: COMP 4418 (Knowledge Representation and Reasoning)**
+
+## Author
+Z.Shang
